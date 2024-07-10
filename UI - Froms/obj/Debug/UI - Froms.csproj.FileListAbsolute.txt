@@ -1,0 +1,38 @@
+F:\Backup\Escritorio\facultad\3 Año\Weingand tesis\Parcial 01\UI - Froms\bin\Debug\UI - Froms.exe.config
+F:\Backup\Escritorio\facultad\3 Año\Weingand tesis\Parcial 01\UI - Froms\bin\Debug\UI - Froms.exe
+F:\Backup\Escritorio\facultad\3 Año\Weingand tesis\Parcial 01\UI - Froms\bin\Debug\UI - Froms.pdb
+F:\Backup\Escritorio\facultad\3 Año\Weingand tesis\Parcial 01\UI - Froms\obj\Debug\UI - Froms.csproj.AssemblyReference.cache
+F:\Backup\Escritorio\facultad\3 Año\Weingand tesis\Parcial 01\UI - Froms\obj\Debug\UI - Froms.csproj.SuggestedBindingRedirects.cache
+F:\Backup\Escritorio\facultad\3 Año\Weingand tesis\Parcial 01\UI - Froms\obj\Debug\UI___Froms.Properties.Resources.resources
+F:\Backup\Escritorio\facultad\3 Año\Weingand tesis\Parcial 01\UI - Froms\obj\Debug\UI___Froms.StartForm.resources
+F:\Backup\Escritorio\facultad\3 Año\Weingand tesis\Parcial 01\UI - Froms\obj\Debug\UI - Froms.csproj.GenerateResource.cache
+F:\Backup\Escritorio\facultad\3 Año\Weingand tesis\Parcial 01\UI - Froms\obj\Debug\UI - Froms.csproj.CoreCompileInputs.cache
+F:\Backup\Escritorio\facultad\3 Año\Weingand tesis\Parcial 01\UI - Froms\obj\Debug\UI - Froms.exe
+F:\Backup\Escritorio\facultad\3 Año\Weingand tesis\Parcial 01\UI - Froms\obj\Debug\UI - Froms.pdb
+F:\Backup\Escritorio\facultad\3 Año\Weingand tesis\Parcial 01\UI - Froms\bin\Debug\Dom.dll
+F:\Backup\Escritorio\facultad\3 Año\Weingand tesis\Parcial 01\UI - Froms\bin\Debug\Logic.dll
+F:\Backup\Escritorio\facultad\3 Año\Weingand tesis\Parcial 01\UI - Froms\bin\Debug\Dao.dll
+F:\Backup\Escritorio\facultad\3 Año\Weingand tesis\Parcial 01\UI - Froms\bin\Debug\Dom.pdb
+F:\Backup\Escritorio\facultad\3 Año\Weingand tesis\Parcial 01\UI - Froms\bin\Debug\Logic.pdb
+F:\Backup\Escritorio\facultad\3 Año\Weingand tesis\Parcial 01\UI - Froms\bin\Debug\Dao.pdb
+F:\Backup\Escritorio\facultad\3 Año\Weingand tesis\Parcial 01\UI - Froms\obj\Debug\UI___Froms.MainForm.resources
+F:\Backup\Escritorio\facultad\3 Año\Weingand tesis\Parcial 01\UI - Froms\obj\Debug\UI - Froms.csproj.CopyComplete
+G:\CSharp Projects\ZProgram Dependencies Documentator\UI - Froms\bin\Debug\UI - Froms.exe.config
+G:\CSharp Projects\ZProgram Dependencies Documentator\UI - Froms\bin\Debug\UI - Froms.exe
+G:\CSharp Projects\ZProgram Dependencies Documentator\UI - Froms\bin\Debug\UI - Froms.pdb
+G:\CSharp Projects\ZProgram Dependencies Documentator\UI - Froms\bin\Debug\Dom.dll
+G:\CSharp Projects\ZProgram Dependencies Documentator\UI - Froms\bin\Debug\Logic.dll
+G:\CSharp Projects\ZProgram Dependencies Documentator\UI - Froms\bin\Debug\Dao.dll
+G:\CSharp Projects\ZProgram Dependencies Documentator\UI - Froms\bin\Debug\Dom.pdb
+G:\CSharp Projects\ZProgram Dependencies Documentator\UI - Froms\bin\Debug\Logic.pdb
+G:\CSharp Projects\ZProgram Dependencies Documentator\UI - Froms\bin\Debug\Dao.pdb
+G:\CSharp Projects\ZProgram Dependencies Documentator\UI - Froms\obj\Debug\UI - Froms.csproj.AssemblyReference.cache
+G:\CSharp Projects\ZProgram Dependencies Documentator\UI - Froms\obj\Debug\UI - Froms.csproj.SuggestedBindingRedirects.cache
+G:\CSharp Projects\ZProgram Dependencies Documentator\UI - Froms\obj\Debug\UI___Froms.MainForm.resources
+G:\CSharp Projects\ZProgram Dependencies Documentator\UI - Froms\obj\Debug\UI___Froms.Properties.Resources.resources
+G:\CSharp Projects\ZProgram Dependencies Documentator\UI - Froms\obj\Debug\UI___Froms.StartForm.resources
+G:\CSharp Projects\ZProgram Dependencies Documentator\UI - Froms\obj\Debug\UI - Froms.csproj.GenerateResource.cache
+G:\CSharp Projects\ZProgram Dependencies Documentator\UI - Froms\obj\Debug\UI - Froms.csproj.CoreCompileInputs.cache
+G:\CSharp Projects\ZProgram Dependencies Documentator\UI - Froms\obj\Debug\UI - Froms.csproj.CopyComplete
+G:\CSharp Projects\ZProgram Dependencies Documentator\UI - Froms\obj\Debug\UI - Froms.exe
+G:\CSharp Projects\ZProgram Dependencies Documentator\UI - Froms\obj\Debug\UI - Froms.pdb
