@@ -27,7 +27,7 @@ namespace Logic
 
         public void SaveOrUpdate(ObjetoZ objeto)
         {
-            
+            Console.WriteLine("saving");
         }
         public void Delete(ObjetoZ objeto)
         {
